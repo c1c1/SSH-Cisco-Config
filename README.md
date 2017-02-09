@@ -5,8 +5,8 @@
 ### Before use:
 
   - Python Version 2
-  - Needed an hostfile with the name of the device (EX:192.68.2.250), see example file called host.
-  - Needed an configurationfile with the commands to send via ssh to device, see example file called commands.
+  - Needed an hostfile with the name of the device (EX:192.68.2.250), see example file called Hosts.
+  - Needed an configurationfile with the commands to send via ssh to device, see example file called Commands.
   - If using GUI.py change lines 10 & 11 of sshing.py to correct user and password, on CLI.py it is asked to user, for each equipment.
 
 ### Modules used:
