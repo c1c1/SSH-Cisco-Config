@@ -14,7 +14,7 @@ def createFolders(logpath):
 
 #######################################################################
 # Main Fuction
-@gooey.Gooey(program_name='SSH Cisco Config', image_dir='./images/')
+@gooey.Gooey(program_name='SSH Cisco Config')
 def main():
     local = 'gui'
     parser = GooeyParser(description='Script for changing devices configurations')
